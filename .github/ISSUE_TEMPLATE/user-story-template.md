@@ -1,18 +1,15 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: User story template
+about: custom template for project user stories
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-Give it a descriptive template name and briefly explain the purpose in About.
-
 As a **role** I can **capability** so that **received benefit**
 
+### Acceptance criteria
 - Acceptance criteria 1
-
 - Acceptance criteria 2
-
 - Acceptance criteria 3
